@@ -1,0 +1,9 @@
+Auto HEN Installer FOR HFW 4.88
+
+This release was built by Coro. It installs HEN 3.0.3 to the hard drive. To install Official HEN, enable HEN after the reboot. Then install HEN303HFW488FULL.pkg (it is under Package Manager) and reboot again.
+
+Hosted Online at https://ps3addict.github.io/autohen488
+
+Thanks to Joonie, habib, and zecoxao for Hybrid Firmware 4.88!
+
+Thanks to lmn7 for his Auto Installer and P3T generator scripts!
